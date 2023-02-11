@@ -1,0 +1,123 @@
+C:\Store Managment System\Store Managment System\bin\Debug\Store Managment System.exe.config
+C:\Store Managment System\Store Managment System\bin\Debug\Store Managment System.exe
+C:\Store Managment System\Store Managment System\bin\Debug\Store Managment System.pdb
+C:\Store Managment System\Store Managment System\bin\Debug\Store Managment System.xml
+C:\Store Managment System\Store Managment System\obj\Debug\Store_Managment_System.Form1.resources
+C:\Store Managment System\Store Managment System\obj\Debug\Store_Managment_System.Form2.resources
+C:\Store Managment System\Store Managment System\obj\Debug\Store_Managment_System.Form3.resources
+C:\Store Managment System\Store Managment System\obj\Debug\Store_Managment_System.Form4.resources
+C:\Store Managment System\Store Managment System\obj\Debug\Store_Managment_System.Resources.resources
+C:\Store Managment System\Store Managment System\obj\Debug\Store Managment System.vbproj.GenerateResource.Cache
+C:\Store Managment System\Store Managment System\obj\Debug\Store Managment System.exe
+C:\Store Managment System\Store Managment System\obj\Debug\Store Managment System.xml
+C:\Store Managment System\Store Managment System\obj\Debug\Store Managment System.pdb
+C:\Store Managment System\Store Managment System\obj\Debug\Store_Managment_System.Form5.resources
+C:\Store Managment System\Store Managment System\obj\Debug\Store_Managment_System.Form6.resources
+F:\Store Managment System\Store Managment System\bin\Debug\Store Managment System.exe.config
+F:\Store Managment System\Store Managment System\obj\Debug\Store Managment System.exe
+F:\Store Managment System\Store Managment System\obj\Debug\Store Managment System.xml
+F:\Store Managment System\Store Managment System\obj\Debug\Store Managment System.pdb
+F:\Store Managment System\Store Managment System\bin\Debug\Store Managment System.exe
+F:\Store Managment System\Store Managment System\bin\Debug\Store Managment System.pdb
+F:\Store Managment System\Store Managment System\bin\Debug\Store Managment System.xml
+F:\Store Managment System\Store Managment System\obj\Debug\Store_Managment_System.Form1.resources
+F:\Store Managment System\Store Managment System\obj\Debug\Store_Managment_System.Form2.resources
+F:\Store Managment System\Store Managment System\obj\Debug\Store_Managment_System.Form3.resources
+F:\Store Managment System\Store Managment System\obj\Debug\Store_Managment_System.Form4.resources
+F:\Store Managment System\Store Managment System\obj\Debug\Store_Managment_System.Resources.resources
+F:\Store Managment System\Store Managment System\obj\Debug\Store Managment System.vbproj.GenerateResource.Cache
+C:\Users\Dell\Desktop\Store Managment System\Store Managment System\bin\Debug\Store Managment System.exe.config
+C:\Users\Dell\Desktop\Store Managment System\Store Managment System\obj\Debug\Store Managment System.exe
+C:\Users\Dell\Desktop\Store Managment System\Store Managment System\obj\Debug\Store Managment System.xml
+C:\Users\Dell\Desktop\Store Managment System\Store Managment System\obj\Debug\Store Managment System.pdb
+C:\Users\Dell\Desktop\Store Managment System\Store Managment System\bin\Debug\Store Managment System.exe
+C:\Users\Dell\Desktop\Store Managment System\Store Managment System\bin\Debug\Store Managment System.pdb
+C:\Users\Dell\Desktop\Store Managment System\Store Managment System\bin\Debug\Store Managment System.xml
+C:\Users\Dell\Desktop\Store Managment System\Store Managment System\obj\Debug\Store_Managment_System.Form1.resources
+C:\Users\Dell\Desktop\Store Managment System\Store Managment System\obj\Debug\Store_Managment_System.Form2.resources
+C:\Users\Dell\Desktop\Store Managment System\Store Managment System\obj\Debug\Store_Managment_System.Form3.resources
+C:\Users\Dell\Desktop\Store Managment System\Store Managment System\obj\Debug\Store_Managment_System.Form4.resources
+C:\Users\Dell\Desktop\Store Managment System\Store Managment System\obj\Debug\Store_Managment_System.Resources.resources
+C:\Users\Dell\Desktop\Store Managment System\Store Managment System\obj\Debug\Store Managment System.vbproj.GenerateResource.Cache
+F:\sanadi\Store Managment System\Store Managment System\bin\Debug\Store Managment System.exe.config
+F:\sanadi\Store Managment System\Store Managment System\obj\Debug\Store Managment System.exe
+F:\sanadi\Store Managment System\Store Managment System\obj\Debug\Store Managment System.xml
+F:\sanadi\Store Managment System\Store Managment System\obj\Debug\Store Managment System.pdb
+F:\sanadi\Store Managment System\Store Managment System\bin\Debug\Store Managment System.exe
+F:\sanadi\Store Managment System\Store Managment System\bin\Debug\Store Managment System.pdb
+F:\sanadi\Store Managment System\Store Managment System\bin\Debug\Store Managment System.xml
+F:\sanadi\Store Managment System\Store Managment System\obj\Debug\Store_Managment_System.Form1.resources
+F:\sanadi\Store Managment System\Store Managment System\obj\Debug\Store_Managment_System.Form2.resources
+F:\sanadi\Store Managment System\Store Managment System\obj\Debug\Store_Managment_System.Form3.resources
+F:\sanadi\Store Managment System\Store Managment System\obj\Debug\Store_Managment_System.Form4.resources
+F:\sanadi\Store Managment System\Store Managment System\obj\Debug\Store_Managment_System.Resources.resources
+F:\sanadi\Store Managment System\Store Managment System\obj\Debug\Store Managment System.vbproj.GenerateResource.Cache
+C:\ayesha\Store Managment System\Store Managment System\bin\Debug\Store Managment System.exe.config
+C:\ayesha\Store Managment System\Store Managment System\obj\Debug\Store Managment System.exe
+C:\ayesha\Store Managment System\Store Managment System\obj\Debug\Store Managment System.xml
+C:\ayesha\Store Managment System\Store Managment System\obj\Debug\Store Managment System.pdb
+C:\ayesha\Store Managment System\Store Managment System\bin\Debug\Store Managment System.exe
+C:\ayesha\Store Managment System\Store Managment System\bin\Debug\Store Managment System.pdb
+C:\ayesha\Store Managment System\Store Managment System\bin\Debug\Store Managment System.xml
+C:\ayesha\Store Managment System\Store Managment System\obj\Debug\Store_Managment_System.Form1.resources
+C:\ayesha\Store Managment System\Store Managment System\obj\Debug\Store_Managment_System.Form2.resources
+C:\ayesha\Store Managment System\Store Managment System\obj\Debug\Store_Managment_System.Form3.resources
+C:\ayesha\Store Managment System\Store Managment System\obj\Debug\Store_Managment_System.Form4.resources
+C:\ayesha\Store Managment System\Store Managment System\obj\Debug\Store_Managment_System.Resources.resources
+C:\ayesha\Store Managment System\Store Managment System\obj\Debug\Store Managment System.vbproj.GenerateResource.Cache
+C:\ayesha\Store Managment System\Store Managment System\obj\Debug\Store_Managment_System.Form5.resources
+D:\Store Managment System\Store Managment System\bin\Debug\Store Managment System.exe.config
+D:\Store Managment System\Store Managment System\obj\Debug\Store Managment System.exe
+D:\Store Managment System\Store Managment System\obj\Debug\Store Managment System.xml
+D:\Store Managment System\Store Managment System\obj\Debug\Store Managment System.pdb
+E:\Store Managment System\Store Managment System\bin\Debug\Store Managment System.exe.config
+E:\Store Managment System\Store Managment System\obj\Debug\Store Managment System.exe
+E:\Store Managment System\Store Managment System\obj\Debug\Store Managment System.xml
+E:\Store Managment System\Store Managment System\obj\Debug\Store Managment System.pdb
+E:\Store Managment System\Store Managment System\bin\Debug\Store Managment System.exe
+E:\Store Managment System\Store Managment System\bin\Debug\Store Managment System.pdb
+E:\Store Managment System\Store Managment System\bin\Debug\Store Managment System.xml
+E:\Store Managment System\Store Managment System\obj\Debug\Store_Managment_System.Form1.resources
+E:\Store Managment System\Store Managment System\obj\Debug\Store_Managment_System.Form2.resources
+E:\Store Managment System\Store Managment System\obj\Debug\Store_Managment_System.Form3.resources
+E:\Store Managment System\Store Managment System\obj\Debug\Store_Managment_System.Form4.resources
+E:\Store Managment System\Store Managment System\obj\Debug\Store_Managment_System.Form5.resources
+E:\Store Managment System\Store Managment System\obj\Debug\Store_Managment_System.Resources.resources
+E:\Store Managment System\Store Managment System\obj\Debug\Store Managment System.vbproj.GenerateResource.Cache
+G:\a\Store Managment System\Store Managment System\bin\Debug\Store Managment System.exe.config
+G:\a\Store Managment System\Store Managment System\obj\Debug\Store Managment System.exe
+G:\a\Store Managment System\Store Managment System\obj\Debug\Store Managment System.xml
+G:\a\Store Managment System\Store Managment System\obj\Debug\Store Managment System.pdb
+G:\a\Store Managment System\Store Managment System\bin\Debug\Store Managment System.exe
+G:\a\Store Managment System\Store Managment System\bin\Debug\Store Managment System.pdb
+G:\a\Store Managment System\Store Managment System\bin\Debug\Store Managment System.xml
+G:\a\Store Managment System\Store Managment System\obj\Debug\Store_Managment_System.Form1.resources
+G:\a\Store Managment System\Store Managment System\obj\Debug\Store_Managment_System.Form2.resources
+G:\a\Store Managment System\Store Managment System\obj\Debug\Store_Managment_System.Form3.resources
+G:\a\Store Managment System\Store Managment System\obj\Debug\Store_Managment_System.Form4.resources
+G:\a\Store Managment System\Store Managment System\obj\Debug\Store_Managment_System.Form5.resources
+G:\a\Store Managment System\Store Managment System\obj\Debug\Store_Managment_System.Resources.resources
+G:\a\Store Managment System\Store Managment System\obj\Debug\Store Managment System.vbproj.GenerateResource.Cache
+E:\Ki & Ka (2016) 1CD DvDrip XviD MP3 MSubs -DDR\Store Managment System\Store Managment System\bin\Debug\Store Managment System.exe.config
+E:\Ki & Ka (2016) 1CD DvDrip XviD MP3 MSubs -DDR\Store Managment System\Store Managment System\obj\Debug\Store Managment System.exe
+E:\Ki & Ka (2016) 1CD DvDrip XviD MP3 MSubs -DDR\Store Managment System\Store Managment System\obj\Debug\Store Managment System.xml
+E:\Ki & Ka (2016) 1CD DvDrip XviD MP3 MSubs -DDR\Store Managment System\Store Managment System\obj\Debug\Store Managment System.pdb
+E:\Ki & Ka (2016) 1CD DvDrip XviD MP3 MSubs -DDR\Store Managment System\Store Managment System\bin\Debug\Store Managment System.exe
+E:\Ki & Ka (2016) 1CD DvDrip XviD MP3 MSubs -DDR\Store Managment System\Store Managment System\bin\Debug\Store Managment System.pdb
+E:\Ki & Ka (2016) 1CD DvDrip XviD MP3 MSubs -DDR\Store Managment System\Store Managment System\bin\Debug\Store Managment System.xml
+E:\Ki & Ka (2016) 1CD DvDrip XviD MP3 MSubs -DDR\Store Managment System\Store Managment System\obj\Debug\Store_Managment_System.Form1.resources
+E:\Ki & Ka (2016) 1CD DvDrip XviD MP3 MSubs -DDR\Store Managment System\Store Managment System\obj\Debug\Store_Managment_System.Form2.resources
+E:\Ki & Ka (2016) 1CD DvDrip XviD MP3 MSubs -DDR\Store Managment System\Store Managment System\obj\Debug\Store_Managment_System.Form3.resources
+E:\Ki & Ka (2016) 1CD DvDrip XviD MP3 MSubs -DDR\Store Managment System\Store Managment System\obj\Debug\Store_Managment_System.Form4.resources
+E:\Ki & Ka (2016) 1CD DvDrip XviD MP3 MSubs -DDR\Store Managment System\Store Managment System\obj\Debug\Store_Managment_System.Form5.resources
+E:\Ki & Ka (2016) 1CD DvDrip XviD MP3 MSubs -DDR\Store Managment System\Store Managment System\obj\Debug\Store_Managment_System.Resources.resources
+E:\Ki & Ka (2016) 1CD DvDrip XviD MP3 MSubs -DDR\Store Managment System\Store Managment System\obj\Debug\Store Managment System.vbproj.GenerateResource.Cache
+E:\Ki & Ka (2016) 1CD DvDrip XviD MP3 MSubs -DDR\Store Managment System\Store Managment System\obj\Debug\Store_Managment_System.Form6.resources
+E:\Ki & Ka (2016) 1CD DvDrip XviD MP3 MSubs -DDR\Store Managment System\Store Managment System\obj\Debug\Store_Managment_System.Form7.resources
+E:\Ki & Ka (2016) 1CD DvDrip XviD MP3 MSubs -DDR\Store Managment System\Store Managment System\obj\Debug\Store_Managment_System.Form8.resources
+E:\Ki & Ka (2016) 1CD DvDrip XviD MP3 MSubs -DDR\Store Managment System\Store Managment System\obj\Debug\Store_Managment_System.Form9.resources
+E:\Ki & Ka (2016) 1CD DvDrip XviD MP3 MSubs -DDR\Store Managment System\Store Managment System\obj\Debug\Store_Managment_System.Form10.resources
+E:\Ki & Ka (2016) 1CD DvDrip XviD MP3 MSubs -DDR\Store Managment System\Store Managment System\obj\Debug\Store_Managment_System.Form11.resources
+E:\Ki & Ka (2016) 1CD DvDrip XviD MP3 MSubs -DDR\Store Managment System\Store Managment System\obj\Debug\Store_Managment_System.Form12.resources
+E:\Ki & Ka (2016) 1CD DvDrip XviD MP3 MSubs -DDR\Store Managment System\Store Managment System\obj\Debug\Store_Managment_System.Form13.resources
+E:\Ki & Ka (2016) 1CD DvDrip XviD MP3 MSubs -DDR\Store Managment System\Store Managment System\obj\Debug\Store_Managment_System.Form14.resources
